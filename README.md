@@ -34,3 +34,10 @@ An enterprise-grade Power BI dashboard developed to track macro-level financial 
 2. Open the `.pbix` file inside the `reports/` directory using **Power BI Desktop**.
 3. If prompted, adjust the data source settings to point to the local copy of `sales_and_profit_trends.csv` inside the `data/` folder.
 4. Use the **Year** and **Region** slicers on the left panel, or click directly on the map bubbles and chart bars to experience full, interactive cross-filtering across the entire canvas.
+
+
+## 👤 Author
+**Md. Tarakuzzaman Faysal**
+- 🔗 LinkedIn: [linkedin.com/in/tfaysal](https://www.linkedin.com/in/tfaysal/)
+- 🐙 GitHub: [github.com/iamfosu](https://github.com/iamfosu)
+
